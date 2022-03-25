@@ -1,0 +1,17 @@
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\Breakout.exe.config
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\Breakout.exe
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\Breakout.pdb
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.csproj.AssemblyReference.cache
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.csproj.SuggestedBindingRedirects.cache
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.exe
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.pdb
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.Form1.resources
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\EntityFramework.dll
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\EntityFramework.xml
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\C#练习\打砖块\Breakout\Breakout\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\C#\C#练习\打砖块\Breakout\Breakout\obj\Debug\Breakout.csproj.CopyComplete
